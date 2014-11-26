@@ -1,0 +1,22 @@
+﻿生成启动时间为 2014/11/26 20:28:58。
+     1>项目“C:\Users\cao\Desktop\OpenCvProj\ColorTraceGui\ColorTraceGui.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\ColorTraceGui.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ColorTraceGuiDlg.cpp
+         ColorTraceGuiDlg.cpp
+     1>ColorTraceGuiDlg.cpp(115): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>ColorTraceGuiDlg.cpp(116): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>ColorTraceGuiDlg.cpp(344): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+     1>ColorTraceGuiDlg.cpp(345): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\cao\Desktop\OpenCvProj\Release\ColorTraceGui.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\cao\Desktop\OpenCvProj\Release\ColorTraceGui.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\cao\Desktop\OpenCvProj\Release\ColorTraceGui.lib" /MACHINE:X86 /SAFESEH Release\ColorTraceGui.res
+         Release\ColorTraceGui.obj
+         Release\ColorTraceGuiDlg.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         ColorTraceGui.vcxproj -> C:\Users\cao\Desktop\OpenCvProj\Release\ColorTraceGui.exe
+     1>已完成生成项目“C:\Users\cao\Desktop\OpenCvProj\ColorTraceGui\ColorTraceGui.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.75
